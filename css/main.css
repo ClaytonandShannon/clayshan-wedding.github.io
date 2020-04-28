@@ -654,7 +654,7 @@ input.search-field {
 
 @media only screen and (min-width: 992px) {
 	.navbar {
-		background: none;
+		background: rgba(0, 0, 0, 0.75);
 	}
 }
 
@@ -1312,7 +1312,7 @@ svg path, svg text {
 	stroke: #000;
 	stroke-width: 1;
 	fill: #000;
-	transition: fill-opacity 0.1s ease-in 0s;
+	transition: fill-opacity 0s ease-in 0s;
 }
 
 svg.finish path {
@@ -1436,9 +1436,8 @@ svg.finish path {
 
 /* Footer */
 footer {
-	background: url(../img/footer.jpg) no-repeat;
+	background: url(../img/couple/clayshan2.jpg) no-repeat 0 center;
 	background-size: cover;
-	background-position: bottom;
 	position: relative;
 }
 

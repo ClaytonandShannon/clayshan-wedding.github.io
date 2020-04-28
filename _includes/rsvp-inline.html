@@ -7,21 +7,26 @@
             <div class="col-sm-12 col-md-8 align-self-center">
                 <h2 class="title">RSVP</h2>
                 <h6 class="text-uppercase font-weight-bold mb-0">Will you attend?</h6>
-                <form id="rsvp-form" action="form.php" method="post">
+                <form action="https://formcarry.com/s/a1EdeBiHXRHA" method="POST" accept-charset="UTF-8" >
                     <div class="row">
                         <div class="col-md-8 mb-3 m-md-0">
                             <div class="form-group">
                                 <label class="control-label" for="inputName">Your name</label>
-                                <input type="text" class="form-control" id="inputName" required>
+                                <input type="text" class="form-control" id="inputName" name="inputName" required>
                             </div>
                             <div class="form-group">
                                 <label class="control-label" for="inputFriendName">Who is comming with you</label>
-                                <input type="text" class="form-control" id="inputFriendName" required>
+                                <input type="text" class="form-control" id="inputFriendName" name="inputFriendName">
                             </div>
                             <div class="form-group">
-                                <label class="control-label" for="inputNumber">Your phone or email</label>
-                                <input type="text" class="form-control" id="inputNumber">
+                                <label class="control-label" for="inputNumber">Your phone</label>
+                                <input type="text" class="form-control" id="inputNumber" name="inputNumber">
                             </div>
+                            <div class="form-group">
+                                <label class="control-label" for="inputEmail">Your email</label>
+                                <input type="text" class="form-control" id="inputEmail" name="inputEmail" required>
+                            </div>
+                            <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
                         </div>
                         <div class="col-md-4 align-self-end">
                             <button type="submit" class="btn btn-outline-dark rounded-0 px-3 py-1 font-weight-bold">Send</button>

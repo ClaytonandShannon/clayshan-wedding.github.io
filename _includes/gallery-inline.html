@@ -10,21 +10,14 @@
         <p class="subtitle mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <div class="gallery__slider">
             <div class="slick-gallery slick mb-0">
+
+                {% for image in site.static_files %}    
+                {% if image.path contains 'img/couple' %}
                 <div class="slider__item">
-                    <img src="img/slider/gallery-1.jpg" alt="slider">
+                    <img src="{{ site.baseurl }}{{ image.path }}" alt="slider" />
                 </div>
-                <div class="slider__item">
-                    <img src="img/slider/gallery-2.jpg" alt="slider">
-                </div>
-                <div class="slider__item">
-                    <img src="img/slider/gallery-3.jpg" alt="slider">
-                </div>
-                <div class="slider__item">
-                    <img src="img/slider/gallery-4.jpg" alt="slider">
-                </div>
-                <div class="slider__item">
-                    <img src="img/slider/gallery-5.jpg" alt="slider">
-                </div>
+                {% endif %}
+            {% endfor %}
             </div>
             <div class="gallery__slider-num d-none d-lg-flex">
                 <div class="gallery__slider-current pr-1"></div>
