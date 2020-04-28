@@ -28,23 +28,8 @@
 	</head>
 <body data-spy="scroll" data-target="#navbarSupportedContent" data-offset="100">
 {% include header.html %}
-	<div id="loader" class="loader">
-		<div id="my-svg"></div>
-		<div class="loader-img text-center">
-			<img src="img/story-flowers.png" alt="flowers">
-		</div>
-	</div>
-	<div id="top" class="main-hero">
-		<div class="c-hero-banner c-hero-banner--main">
-			<div class="cover"></div>
-			<div class="c-hero-banner__section c-hero-banner__image">
-				<img class="lazyload" src="img/banner.jpg" alt="image">
-			</div>
-			<div class="mask">
-				<img src="img/mask.png" alt="">
-			</div>
-		</div>
-    </div>
+<!-- {%- include loader.html -%} -->
+
     {{content}}
 
 	
