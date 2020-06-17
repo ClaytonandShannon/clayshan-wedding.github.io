@@ -1,6 +1,6 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Shannon and Clayton Wedding
+timezone: Australia/Melbourne
 collections:
   posts:
     title: Posts
@@ -8,14 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: ''
-url: ''
+email: shannonandclayton.wedding@gmail.com
+description: |-
+  Welcome to Shannon and Clayton's Wedding!
+
+  This website has all the information for the wedding.
+baseurl: 
+url: http://shannonandclaytonwedding.com.au/
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: Randy_Mustache
 theme: minima
 plugins:
 - jekyll-feed
