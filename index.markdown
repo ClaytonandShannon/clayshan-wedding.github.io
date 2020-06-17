@@ -13,11 +13,17 @@ party:
   location: 
   time: 
   image: 
-dinner location: 
-dinner time: 
-party location: 
-party time: 
-Field name:
+event_details:
+  getting_there:
+  - Drive
+  - Bus
+  stay:
+  - Hotel
+  - Dank Motel
+  activities:
+  - Sky Diving
+  - Mini golf
+gallery:
   image: 
 layout: home
 ---
