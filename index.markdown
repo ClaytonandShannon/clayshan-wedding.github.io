@@ -9,7 +9,7 @@ ceremony:
 dinner:
   location: 
   time: 
-  image: 
+  image: "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
 party:
   location: Crown Casino
   time: '04:00'
