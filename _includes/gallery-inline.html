@@ -11,13 +11,16 @@
         <div class="gallery__slider">
             <div class="slick-gallery slick mb-0">
 
-                {% for image in site.static_files %}    
+                <!-- {% for image in site.static_files %}    
                 {% if image.path contains 'img/couple' %}
                 <div class="slider__item">
                     <img src="{{ site.baseurl }}{{ image.path }}" alt="slider" />
                 </div>
                 {% endif %}
-            {% endfor %}
+            {% endfor %} -->
+            <div class="slider__item">
+                <img src="{{ site.baseurl }}{{ page.images.gallery_images.image }}" alt="slider" />
+            </div>
             </div>
             <div class="gallery__slider-num d-none d-lg-flex">
                 <div class="gallery__slider-current pr-1"></div>
