@@ -11,9 +11,9 @@ dinner:
   time: 
   image: 
 party:
-  location: 
-  time: 
-  image: 
+  location: Crown Casino
+  time: '04:00'
+  image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
 event_details:
   getting_there:
   - Drive
@@ -24,8 +24,11 @@ event_details:
   activities:
   - Sky Diving
   - Mini golf
-gallery:
-  image: 
+images:
+  header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
+  footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
+  gallery_images:
+    image: "/uploads/93375248_268025134364687_4900785223513407488_n.jpg"
 layout: home
 ---
 
