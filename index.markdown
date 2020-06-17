@@ -1,7 +1,7 @@
 ---
 title: Shannon and Clayton Wedding
 love story: Still cute
-main location: 
+main location: Sydney probs
 ceremony location: Sydney
 ceremony time: '13:00'
 dinner location: 
