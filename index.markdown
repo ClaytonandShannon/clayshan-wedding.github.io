@@ -14,7 +14,7 @@ party:
   location: Crown Casino
   time: '04:00'
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-event_description: 
+event_description: Have fun at this party
 event_details:
   getting_there: Drive, bus?
   stay: Dank Motel
