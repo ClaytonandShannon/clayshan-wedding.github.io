@@ -2,6 +2,9 @@
 title: Shannon and Clayton Wedding
 timezone: Australia/Melbourne
 collections:
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
