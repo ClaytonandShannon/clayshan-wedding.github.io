@@ -4,15 +4,15 @@ love story description: Still cute
 main location: West Sydney
 ceremony:
   location: Sydney
-  time: '13:01'
+  datetime: 2013-01-01 00:00:00 +11:00
   image: "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
 dinner:
   location: 
-  time: 
+  datetime: 
   image: "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
 party:
   location: Crown Casino
-  time: '04:00'
+  datetime: 2004-01-01 00:00:00 +11:00
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
 event_description: Have fun at this party
 event_details:
