@@ -38,14 +38,15 @@
                     <div class="row">
                         <h2 class="accordion__item-heading">Dinner</h2>
                         <div class="col-md-6">
-                            <img class="accordion__item-img" src="{{ site.baseurl }}/img/couple/clayshan4.jpg" alt="ceremony">
+                            <img class="accordion__item-img" src="{{ site.baseurl }}{{page.dinner.image}}" alt="dinner">
                         </div>
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
                             <p class="d-flex align-items-center">
-                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page['dinner location']}}</p>
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page.dinner.location}}</p>
+
                             <p class="d-flex align-items-center">
-                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page['dinner time']}}</p>
+                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page.dinner.time}}</p>
                             <p class="font-weight-bold">Keep it classy</p>
                             <div class="btn btn-outline-dark rounded-0 px-2 py-1">View on map</div>
                         </div>
@@ -55,15 +56,15 @@
                     <div class="row">
                         <h2 class="accordion__item-heading">Party</h2>
                         <div class="col-md-6">
-                            <img class="accordion__item-img" src="{{ site.baseurl }}/img/couple/clayshan3.jpg" alt="ceremony">
+                            <img class="accordion__item-img" src="{{ site.baseurl }}{{page.party.image}}" alt="party">
                         </div>
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
                             <p class="d-flex align-items-center">
-                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page['party location']}}</p>
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page.party.location}}</p>
 
                             <p class="d-flex align-items-center">
-                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page['party time']}}</p>
+                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page.party.time}}</p>
                             <p class="font-weight-bold">Keep it classy</p>
                             <div class="btn btn-outline-dark rounded-0 px-2 py-1">View on map</div>
                         </div>
@@ -75,24 +76,16 @@
             <div class="row text-left">
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Getting there</h6>
-                    <p>You can get there using the car, bus or train.</p>
+                    <p>{{ page.event_details.getting_there }}</p>
                 </div>
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Where to stay</h6>
                     <p>Hotel, Motel</p>
-                    <p>There are many options to choose around. You can book accommodation online, either at hotel's own web
-                        site or at web site of an agency.</p>
+                    <p>{{ page.event_details.stay }}</p>
                 </div>
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Activities</h6>
-                    <p>Here are a few of our favorite local spots.</p>
-                    <ul>
-                        <li>Climbing Park</li>
-                        <li>Bowling</li>
-                        <li>Golf</li>
-                        <li>Spa center</li>
-                        <li>Biking</li>
-                    </ul>
+                    <p>{{ page.event_details.activities }}</p>
                 </div>
             </div>
         </div>
