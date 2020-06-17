@@ -1,6 +1,11 @@
 ---
 title: Shannon and Clayton Wedding
-love_story_description: Still cute
+love story description: |-
+  Still cute
+
+  ![93380072_233146311131860_761959779932307456_n.jpg](/uploads/93380072_233146311131860_761959779932307456_n.jpg)
+
+  it can have images I guess
 main location: West Sydney
 ceremony:
   location: Sydney
