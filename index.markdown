@@ -5,7 +5,7 @@ main location: West Sydney
 ceremony:
   location: Sydney
   time: '13:01'
-  image: "/uploads/93380072_233146311131860_761959779932307456_n2-e043ca.jpg"
+  image: "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
 dinner:
   location: 
   time: 
@@ -15,15 +15,9 @@ party:
   time: '04:00'
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
 event_details:
-  getting_there:
-  - Drive
-  - Bus
-  stay:
-  - Hotel
-  - Dank Motel
-  activities:
-  - Sky Diving
-  - Mini golf
+  getting_there: Drive, bus?
+  stay: Dank Motel
+  activities: Extreme mini golf
 images:
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
