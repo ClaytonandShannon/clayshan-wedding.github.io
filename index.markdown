@@ -22,6 +22,7 @@ event_details:
 images:
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
+  gallery_description: This is a gallery
   gallery_images:
   - "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   - "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
@@ -29,7 +30,6 @@ images:
   - "/uploads/93375248_268025134364687_4900785223513407488_n.jpg"
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-  gallery description: This is a gallery
   gift description: Buy us things
 layout: home
 ---
