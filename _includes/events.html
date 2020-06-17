@@ -1,7 +1,8 @@
 <section id="events" class="events section text-center">
     <div class="container">
         <h1 class="title">Wedding events</h1>
-        <p class="subtitle mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="subtitle mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+            aliqua.</p>
         <div id="accordion">
             <div class="accordion__header d-flex justify-content-center">
                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -19,12 +20,15 @@
                     <div class="row">
                         <h2 class="accordion__item-heading">Ceremony</h2>
                         <div class="col-md-6">
-                            <img class="accordion__item-img" src="{{ site.baseurl }}/img/couple/clayshan5.jpg" alt="ceremony">
+                            <img class="accordion__item-img" src="{{ site.baseurl }}{{page.ceremony.image}}" alt="ceremony">
                         </div>
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-map-marker align-middle pr-1"></i>W Hotel, 1423 Hobart St, Pittsburgh, PA, 15217</p>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-clock-o align-middle pr-1"></i>09:00 - 10:30, Sep 15, 2018 </p>
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page.ceremony.location}}</p>
+
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page.ceremony.time}}</p>
                             <p class="font-weight-bold">Keep it classy</p>
                             <div class="btn btn-outline-dark rounded-0 px-2 py-1">View on map</div>
                         </div>
@@ -38,8 +42,10 @@
                         </div>
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-map-marker align-middle pr-1"></i>                    {{ page['location']}}</p>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-clock-o align-middle pr-1"></i>17:00 - 21:00, Sep 15, 2018 </p>
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page['dinner location']}}</p>
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page['dinner time']}}</p>
                             <p class="font-weight-bold">Keep it classy</p>
                             <div class="btn btn-outline-dark rounded-0 px-2 py-1">View on map</div>
                         </div>
@@ -53,8 +59,11 @@
                         </div>
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-map-marker align-middle pr-1"></i>W Hotel, 1423 Hobart St, Pittsburgh, PA, 15217</p>
-                            <p class="d-flex align-items-center"><i class="fa fa-2x fa-clock-o align-middle pr-1"></i>21:00 - 00:00, Sep 15, 2018 </p>
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page['party location']}}</p>
+
+                            <p class="d-flex align-items-center">
+                                <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page['party time']}}</p>
                             <p class="font-weight-bold">Keep it classy</p>
                             <div class="btn btn-outline-dark rounded-0 px-2 py-1">View on map</div>
                         </div>
@@ -71,7 +80,8 @@
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Where to stay</h6>
                     <p>Hotel, Motel</p>
-                    <p>There are many options to choose around. You can book accommodation online, either at hotel's own web site or at web site of an agency.</p>
+                    <p>There are many options to choose around. You can book accommodation online, either at hotel's own web
+                        site or at web site of an agency.</p>
                 </div>
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Activities</h6>
