@@ -121,7 +121,6 @@ body {
 	line-height: 1.7;
 	color: #212529;
 	overflow-x: hidden;
-	white-space: pre-wrap;
 }
 
 body.offcanvas {
@@ -1068,6 +1067,10 @@ input.search-field {
 .love-story__flowers {
 	max-width: 300px;
 	padding-bottom: 30px;
+}
+
+.love-story__flowers .m-auto{
+	white-space: pre-wrap;
 }
 
 .date-section__block {
