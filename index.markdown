@@ -24,7 +24,7 @@ love story description: "Clayton and Shannon met properly for the first time in 
   so shocked, even though she had seen the ring box in my pocket and asked all about
   it earlier that morning. \n\nOur story of love is only just beginning. Some beautiful
   memories, experiences and time spent to start a wonderful life together as husband
-  and wife.\n"
+  and wife."
 main location: Appin House
 ceremony:
   location: Appin House
