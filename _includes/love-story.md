@@ -9,7 +9,7 @@
         <h1 class="title">Love story</h1>
         <p class="m-auto">
             {{ page['love story description']}}
-            
+            Hello
         </p>
     </div>
 </section>
