@@ -121,6 +121,7 @@ body {
 	line-height: 1.7;
 	color: #212529;
 	overflow-x: hidden;
+	white-space: pre-wrap;
 }
 
 body.offcanvas {
