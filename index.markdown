@@ -40,13 +40,26 @@ party:
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
 event_description: Have fun at this party
 event_details:
-  getting_there: Drive, bus?
-  stay: Various Options To Come
-  activities: Games Will Be Provided
+  getting_there: We are currently looking into a bus service for guests from the Campbelltown
+    area. Please watch this space for updates.
+  stay: "STAY IN APPIN: \nhttps://tinyurl.com/y75vmdlt\n\nhttps://www.airbnb.com.au/s/Appin--Australia\n\nSTAY
+    WITHIN 30 MINS OF APPIN:\n- Wollongong and surrounding suburbs\n- Campbelltown\n-
+    Camden\n\nSTAYING IN THE CITY?\nJust a train and a bus ride to Appin House. Or
+    enjoy lots of travel options Sydney has to offer."
+  activities: |-
+    Bringing your children? We have space for a maximum of 12 children* to join in some fun and games while the wedding is happening.
+
+    Don't worry adults. There will be lots for us to enjoy too.
+
+    *Please confirm with the Bride and Groom if you wish to bring your children so we can confirm numbers.
 images:
+  gift description: |-
+    # WISHING WELL
+
+    Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-  gallery_description: Please see our many similar photos. We don't take many.
+  gallery_description: 
   gallery_images:
   - "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   - "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
@@ -54,7 +67,6 @@ images:
   - "/uploads/93375248_268025134364687_4900785223513407488_n.jpg"
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-  gift description: Wishing Well.
 layout: home
 ---
 
