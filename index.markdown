@@ -60,12 +60,12 @@ event_details:
   - "*Please confirm with the Bride and Groom if you wish to bring your children so
     we can confirm numbers."
 images:
+  header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
+  footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
   gift description: |-
     # WISHING WELL
 
     Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
-  header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
-  footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
   gallery_description: 
   gallery_images:
   - "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
