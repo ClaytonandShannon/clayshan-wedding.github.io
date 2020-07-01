@@ -1,6 +1,5 @@
 ---
 title: Shannon and Clayton Wedding
-published: false
 love story description: "Clayton and Shannon met properly for the first time in the
   pool. Of all the places Clayton could meet someone, it ended up being while swimming.
   Well, teaching it. Shannon and Clayton formed a strong connection as they taught
