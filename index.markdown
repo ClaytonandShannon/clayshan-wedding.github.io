@@ -42,16 +42,23 @@ event_description: Have fun at this party
 event_details:
   getting_there: We are currently looking into a bus service for guests from the Campbelltown
     area. Please watch this space for updates.
-  stay: "STAY IN APPIN: \nhttps://tinyurl.com/y75vmdlt\n\nhttps://www.airbnb.com.au/s/Appin--Australia\n\nSTAY
-    WITHIN 30 MINS OF APPIN:\n- Wollongong and surrounding suburbs\n- Campbelltown\n-
-    Camden\n\nSTAYING IN THE CITY?\nJust a train and a bus ride to Appin House. Or
-    enjoy lots of travel options Sydney has to offer."
-  activities: |-
-    Bringing your children? We have space for a maximum of 12 children* to join in some fun and games while the wedding is happening.
+  stay:
+  - "STAY IN APPIN: \nhttps://tinyurl.com/y75vmdlt\n\nhttps://www.airbnb.com.au/s/Appin--Australia"
+  - |-
+    STAY WITHIN 30 MINS OF APPIN:
+    - Wollongong and surrounding suburbs
+    - Campbelltown
+    - Camden
+  - |-
+    STAYING IN THE CITY?
 
-    Don't worry adults. There will be lots for us to enjoy too.
-
-    *Please confirm with the Bride and Groom if you wish to bring your children so we can confirm numbers.
+    Just a train and a bus ride to Appin House. Or enjoy lots of travel options Sydney has to offer.
+  activities:
+  - 'Bringing your children? We have space for a maximum of 12 children* to join in
+    some fun and games while the wedding is happening. '
+  - 'Don''t worry adults. There will be lots for us to enjoy too. '
+  - "*Please confirm with the Bride and Groom if you wish to bring your children so
+    we can confirm numbers."
 images:
   gift description: |-
     # WISHING WELL
