@@ -7,8 +7,8 @@
             <img src="img/story-flowers.png" alt="flowers">
         </div>
         <h1 class="title">Love story</h1>
-        <p class="m-auto">
-            {{ page['love story description']}}
-        </p>
+        <div class="m-auto">
+            {{ page['love story description'] | markdownify}}
+        </div>
     </div>
 </section>

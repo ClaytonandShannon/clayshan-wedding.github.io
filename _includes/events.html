@@ -24,7 +24,7 @@
                         <div class="col-md-6 text-left">
                             <h3 class="accordion__item-subheading">When and Where</h3>
                             <p class="d-flex align-items-center">
-                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page.ceremony.location}}</p>
+                                <i class="fa fa-2x fa-map-marker align-middle pr-1"></i> {{ page.ceremony.location | markdownify}}</p>
 
                             <p class="d-flex align-items-center">
                                 <i class="fa fa-2x fa-clock-o align-middle pr-1"></i>{{ page.ceremony.time}}</p>
@@ -75,15 +75,22 @@
             <div class="row text-left">
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Getting there</h6>
-                    <p>{{ page.event_details.getting_there }}</p>
+                    <p>{{ page.event_details.getting_there | markdownify}}</p>
                 </div>
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Where to stay</h6>
-                    <p>{{ page.event_details.stay }}</p>
+                {% for stay in  page.event_details.stay_description %}    
+                    
+                    <p>{{ stay | markdownify }}</p>
+                    {% endfor %}
                 </div>
                 <div class="col-md-4 event__info-item">
                     <h6 class="event__info-header font-weight-bold">Activities</h6>
-                    <p>{{ page.event_details.activities }}</p>
+                {% for activity in  page.event_details.activities %}    
+                    
+                    <p>{{ activity | markdownify}}</p>
+                    {% endfor %}
+                    
                 </div>
             </div>
         </div>

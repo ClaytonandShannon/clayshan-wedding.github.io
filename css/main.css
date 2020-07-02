@@ -81,6 +81,9 @@ Table of Contents:
 		margin: 0 auto;
 	}
 }
+.m-auto p {
+margin: 0 auto;
+}
 
 .aside h3 {
 	font-family: "Playfair Display", serif;
@@ -1067,10 +1070,6 @@ input.search-field {
 .love-story__flowers {
 	max-width: 300px;
 	padding-bottom: 30px;
-}
-
-.love-story .m-auto{
-	white-space: pre-wrap;
 }
 
 .date-section__block {
