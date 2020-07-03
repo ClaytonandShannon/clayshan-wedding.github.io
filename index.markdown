@@ -42,7 +42,7 @@ event_description: Let's have fun and dance like we haven't danced in a year.
 event_details:
   getting_there: We are currently looking into a bus service for guests from the Campbelltown
     area. Please watch this space for updates.
-  stay:
+  stay_description:
   - "STAY IN APPIN: \nhttps://tinyurl.com/y75vmdlt\n\nhttps://www.airbnb.com.au/s/Appin--Australia"
   - |-
     STAY WITHIN 30 MINS OF APPIN:
@@ -70,10 +70,12 @@ images:
   - "/uploads/93375248_268025134364687_4900785223513407488_n.jpg"
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
+  - 
   gift description: |-
     # WISHING WELL
 
     Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
+Field name: 
 layout: home
 ---
 
