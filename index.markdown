@@ -75,11 +75,9 @@ images:
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
   - 
-  gift description: |-
-    # WISHING WELL
-
-    Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
-Field name: 
+gift description: Gifts are always accepted and a treat for us, but we have been living
+  together for 3 years, plus. So all we ask is for you to bring yourselves, and make
+  a donation into our WISHING WELL!
 layout: home
 ---
 
