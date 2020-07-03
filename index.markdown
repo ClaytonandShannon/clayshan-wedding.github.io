@@ -31,7 +31,7 @@ ceremony:
   time: October 3, 2020 at 1:45pm
   image: "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
 dinner:
-  location: 'Appin house '
+  location: Appin house
   time: October 3, 2020 at 5:00pm
   image: "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
 party:
