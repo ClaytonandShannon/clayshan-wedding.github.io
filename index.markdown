@@ -10,8 +10,8 @@ love story description: "Clayton and Shannon met properly for the first time in 
   times; coffee and cake which ended with Shannon paying (whoops); dancing together
   at “The Ranch”, Shannon the last of everyone to notice that Clayton liked her; coincidentally
   going to the same place in the city and finally awkwardly asking Shannon to be Clayton’s
-  girlfriend in the most awkwardly Clayton way possibly (but hey, it worked). Their
-  friendship only grew stronger and within a few months they were going on holidays
+  girlfriend in the most awkwardly Clayton way possible (but hey, it worked). Their
+  friendship only grew stronger and within a few months, they were going on holidays
   together, sharing special moments and creating important and loving memories. \n\nThe
   most special being their trip to England. Clayton’s first trip overseas and he asks
   a girl to marry him. It was especially wet that day and the rocky beaches of Brighton
@@ -21,24 +21,24 @@ love story description: "Clayton and Shannon met properly for the first time in 
   end of Brighton Pier, it’s just one of those things to say you’ve done it”. Hesitantly,
   Shannon agreed. Hands shaking, cold, wind gusts blasting tea water in our faces,
   Clayton nervously asked the four words, “Will you marry me?” Never had Shannon been
-  so shocked, even though she had seen the ring box in my pocket and asked all about
-  it earlier that morning. \n\nOur story of love is only just beginning. Some beautiful
-  memories, experiences and time spent to start a wonderful life together as husband
-  and wife."
+  so shocked, even though she had seen the ring box in Clayton's pocket and asked
+  all about it earlier that morning. \n\nOur story of love is only just beginning.
+  Some beautiful memories, experiences and time spent to start a wonderful life together,
+  as husband and wife."
 main location: Appin House
 ceremony:
   location: Appin House
   time: October 3, 2020 at 1:45pm
   image: "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
 dinner:
-  location: 
-  time: 
+  location: 'Appin house '
+  time: October 3, 2020 at 5:00pm
   image: "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
 party:
   location: Appin House
-  time: January 1, 2004 at 12:00am
+  time: October 3, 2020 at 6:00pm
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-event_description: Have fun at this party
+event_description: Let's have fun and dance like we haven't danced in a year.
 event_details:
   getting_there: We are currently looking into a bus service for guests from the Campbelltown
     area. Please watch this space for updates.
@@ -62,10 +62,6 @@ event_details:
 images:
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-  gift description: |-
-    # WISHING WELL
-
-    Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
   gallery_description: 
   gallery_images:
   - "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
@@ -74,6 +70,10 @@ images:
   - "/uploads/93375248_268025134364687_4900785223513407488_n.jpg"
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
+  gift description: |-
+    # WISHING WELL
+
+    Gifts are always accepted and a treat for us, but we have been living together for 3 years, plus. So all we ask is for you to bring yourselves, and make a donation into our WISHING WELL!
 layout: home
 ---
 
