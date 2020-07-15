@@ -7,7 +7,7 @@
             <div class="col-sm-12 col-md-8 align-self-center">
                 <h2 class="title">RSVP</h2>
                 <h6 class="text-uppercase font-weight-bold mb-0">Will you attend?</h6>
-                <form action="https://formcarry.com/s/a1EdeBiHXRHA" method="POST" accept-charset="UTF-8" >
+                <form action="https://formcarry.com/s/a1EdeBiHXRHA" method="POST" accept-charset="UTF-8">
                     <div class="row">
                         <div class="col-md-8 mb-3 m-md-0">
                             <div class="form-group">
@@ -15,18 +15,47 @@
                                 <input type="text" class="form-control" id="inputName" name="Name" required>
                             </div>
                             <div class="form-group">
-                                <label class="control-label" for="inputFriendName">Who is comming with you</label>
-                                <input type="text" class="form-control" id="inputFriendName" name="Plus one">
-                            </div>
-                            <div class="form-group">
-                                <label class="control-label" for="inputNumber">Your phone</label>
-                                <input type="text" class="form-control" id="inputNumber" name="Phone Number">
-                            </div>
-                            <div class="form-group">
                                 <label class="control-label" for="inputEmail">Your email</label>
                                 <input type="text" class="form-control" id="inputEmail" name="Email" required>
                             </div>
-                            <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+                            <div class="col-md-12 row">
+
+                                <div class="form-group col-md-6">
+                                    <p for="inputAttend">Will you attend?</p>
+                                    <form>
+
+                                        <input type="radio" id="inputAttend" name="Attending Wedding" value="Yes" required checked>
+                                        <label for="Yes">Yes</label>
+                                        <input type="radio" id="inputAttend" name="Attending Wedding" value="No" required>
+                                        <label for="No">No</label>
+                                    </form>
+                                </div>
+                                <div class="form-group col-md-6 align-self-end">
+                                        <p for="bus">Will you need the bus?</p>
+
+                                            <input type="radio" id="bus" name="Bus" value="Yes" required>
+                                            <label for="Yes">Yes</label>
+                                            <input type="radio" id="bus" name="Bus" value="No" required>
+                                            <label for="No">No</label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label" for="inputSong">Song Choice</label>
+                                <input type="text" class="form-control" id="songChoice" name="Song Choice">
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label" for="inputDiet">Dietary Requirements</label>
+                                <input type="text" class="form-control" id="diet" name="Dietery Requirements">
+                            </div>
+                            <div class="form-group col-md-12 align-self-end">
+                                <p for="brunch">Will you attend the brunch the following day (details to be provided)</p>
+                                    <input type="radio" id="brunch" name="Brunch" value="Yes">
+                                    <label for="Yes">Yes</label>
+                                    <input type="radio" id="brunch" name="Brunch" value="No">
+                                    <label for="No">No</label>
+                            </div>
+                            <input type="hidden" name="_gotcha">
+                            <!-- use this to prevent spam -->
                         </div>
                         <div class="col-md-4 align-self-end">
                             <button type="submit" class="btn btn-outline-dark rounded-0 px-3 py-1 font-weight-bold">Send</button>
