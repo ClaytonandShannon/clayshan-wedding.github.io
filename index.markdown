@@ -30,9 +30,9 @@ ceremony:
   location: Appin House
   time: October 3, 2020 at 1:45pm
   image: "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
-dinner:
+reception:
   location: Appin house
-  time: October 3, 2020 at 5:00pm
+  time: October 3, 2020 at 3:00pm
   image: "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
 party:
   location: Appin House
@@ -58,11 +58,14 @@ event_details:
 
     Just a train and a bus ride to Appin House. Or enjoy lots of travel options Sydney has to offer.
   activities:
-  - 'Bringing your children? We have space for a maximum of 12 children* to join in
-    some fun and games while the wedding is happening. '
+  - 'Bringing your children? We have space for a maximum of 12 children,(12 and under)*
+    to join in some fun and games while the wedding is happening. '
   - 'Don''t worry adults. There will be lots for us to enjoy too. '
   - "*Please confirm with the Bride and Groom if you wish to bring your children so
     we can confirm numbers."
+gift description: Gifts are always accepted and a treat for us, but we have been living
+  together for 3 years, plus. So all we ask is for you to bring yourselves, and make
+  a donation into our WISHING WELL!
 images:
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
@@ -75,9 +78,6 @@ images:
   - "/uploads/93012772_531702824214402_1880173932993052672_n.jpg"
   - "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
   - 
-gift description: Gifts are always accepted and a treat for us, but we have been living
-  together for 3 years, plus. So all we ask is for you to bring yourselves, and make
-  a donation into our WISHING WELL!
 layout: home
 ---
 
