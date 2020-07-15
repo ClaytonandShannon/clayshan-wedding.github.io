@@ -69,7 +69,8 @@ gift description: Gifts are always accepted and a treat for us, but we have been
 images:
   header_image: "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   footer_image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
-  gallery_description: 
+  gallery_description: Please enjoy some of our adventures together over the past
+    4 and a half years.
   gallery_images:
   - "/uploads/93109682_536285940632022_115786382655356928_n.jpg"
   - "/uploads/93593473_628807274364843_6006288103034060800_n.jpg"
