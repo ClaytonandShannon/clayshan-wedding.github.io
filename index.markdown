@@ -82,7 +82,6 @@ images:
   - "/uploads/IMG_0518.jpg"
   - "/uploads/IMG_1577.jpg"
   - "/uploads/IMG_1209.jpg"
-  - "/uploads/IMG_1209-5288f4.jpg"
   - "/uploads/IMG_1287.JPG"
 layout: home
 ---
