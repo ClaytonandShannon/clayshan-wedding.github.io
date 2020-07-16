@@ -58,7 +58,7 @@ event_details:
 
     Just a train and a bus ride to Appin House. Or enjoy lots of travel options Sydney has to offer.
   activities:
-  - 'Bringing your children? We have space for a maximum of 12 children,(12 and under)*
+  - 'Bringing your children? We have space for a maximum of 12 children (12 and under)*
     to join in some fun and games while the wedding is happening. '
   - 'Don''t worry adults. There will be lots for us to enjoy too. '
   - "*Please confirm with the Bride and Groom if you wish to bring your children so
