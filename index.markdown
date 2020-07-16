@@ -43,11 +43,8 @@ event_details:
   getting_there: We are currently looking into a bus service for guests from the Campbelltown
     area. Please watch this space for updates.
   stay_description:
-  - |-
-    STAY IN APPIN:
-    [https://tinyurl.com/y75vmdlt](https://tinyurl.com/y75vmdlt)
-
-    [https://www.airbnb.com.au/s/Appin--Australia](https://www.airbnb.com.au/s/Appin--Australia)
+  - "STAY IN APPIN:\nLimited spaces available. \nBook quick to ensure close proximity
+    to the venue."
   - |-
     STAY WITHIN 30 MINS OF APPIN:
     - Wollongong and surrounding suburbs
