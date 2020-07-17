@@ -25,7 +25,7 @@ love story description: "Clayton and Shannon met properly for the first time in 
   all about it earlier that morning. \n\nOur story of love is only just beginning.
   Some beautiful memories, experiences and time spent to start a wonderful life together,
   as husband and wife."
-main location: Appin House
+main location: Appin House at 150 Appin Road, Appin.
 ceremony:
   location: Appin House
   time: October 3, 2020 at 1:45pm
@@ -41,7 +41,9 @@ party:
 event_description: Let's have fun and dance like we haven't danced in a year.
 event_details:
   getting_there: "We are currently looking into a bus service for guests from the
-    Campbelltown area. Please watch this space for updates.\n\n"
+    Campbelltown area. Please watch this space for updates.\n\nThere is limited parking
+    available. \n\nIf you drive, count those drinks and be responsible."
+  image: "/uploads/Capture-abe7c7.JPG"
   stay_description:
   - "STAY IN APPIN:\nLimited spaces available. \nBook quick to ensure close proximity
     to the venue."
@@ -55,8 +57,8 @@ event_details:
 
     Just a train and a bus ride to Appin House. Or enjoy lots of travel options Sydney has to offer.
   activities:
-  - 'Bringing your children? We have space for a maximum of 12 children (12 and under)*
-    to join in some fun and games while the wedding is happening. '
+  - 'Bringing your children? We have space for a maximum of 12 children (aged 12 and
+    under)* to join in some fun and games while the wedding is happening. '
   - 'Don''t worry adults. There will be lots for us to enjoy too. '
   - "*Please confirm with the Bride and Groom if you wish to bring your children so
     we can confirm numbers."
