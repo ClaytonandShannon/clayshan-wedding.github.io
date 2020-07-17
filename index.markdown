@@ -40,8 +40,8 @@ party:
   image: "/uploads/93910150_920978865024848_789182274791800832_n.jpg"
 event_description: Let's have fun and dance like we haven't danced in a year.
 event_details:
-  getting_there: We are currently looking into a bus service for guests from the Campbelltown
-    area. Please watch this space for updates.
+  getting_there: "We are currently looking into a bus service for guests from the
+    Campbelltown area. Please watch this space for updates.\n\n"
   stay_description:
   - "STAY IN APPIN:\nLimited spaces available. \nBook quick to ensure close proximity
     to the venue."
